@@ -31,7 +31,7 @@ month_dummies = pd.get_dummies(df['month'])
 df = pd.concat([df,month_dummies],axis=1)
 img=Image.open("Gold-price.jpg")
 
-model=load(open('D:/code/hwe.pkl','rb'))
+model=load(open('hwe.pkl','rb'))
 st.image(img, caption='Gold ', use_column_width=True)
 
 #prediction_2 = pd.Series(model.predict(n))
