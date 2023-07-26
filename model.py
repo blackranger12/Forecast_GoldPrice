@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from pmdarima import auto_arima
 from pickle import load
 from PIL import Image
 import matplotlib.pyplot as plt
