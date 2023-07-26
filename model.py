@@ -29,7 +29,7 @@ df['month'] = df['month'].apply(lambda x: calendar.month_name[x])
 
 month_dummies = pd.get_dummies(df['month'])
 df = pd.concat([df,month_dummies],axis=1)
-img=Image.open("D:\code\project1\Gold-price.jpg")
+img=Image.open("Gold-price.jpg")
 
 model=load(open('D:/code/hwe.pkl','rb'))
 st.image(img, caption='Gold ', use_column_width=True)
