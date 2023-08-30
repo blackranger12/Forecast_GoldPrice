@@ -1,7 +1,7 @@
 # Forecast_GoldPrice
 <h1 align="center">Forecast_GoldPrice ANALYSIS</h1>
 
-![-GetPaidStock com--635e3fa0c561f](https://github.com/ZakeerS/CUSTOMER_personality/assets/135118498/e1ec9d49-ebdd-487f-b806-ee2e794a525e)
+![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Finvestingexpert.in%2Fgold-rate-forecast%2F&psig=AOvVaw1mt7fS1L_u7U0CLsklcJeX&ust=1693493723354000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiQo_DRhIEDFQAAAAAdAAAAABAE)
 
 <h2 align="center">UNDERSTANDING THE BUSINESS PROBLEM</h2>
 
